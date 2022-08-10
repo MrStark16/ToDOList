@@ -1,0 +1,7 @@
+https://sleepy-ocean-03520.herokuapp.com/
+
+
+This Project is hosted on heroku and mongoDB
+
+
+You can add new lists by "/newListName" on URL and this will create new list with all the new components 
