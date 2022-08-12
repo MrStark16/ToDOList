@@ -1,7 +1,17 @@
-https://sleepy-ocean-03520.herokuapp.com/
+
+Project Status : Completed.
+
+Function : To make a rsposive To-Do List Web Application where you can add and delete items as per your need 
+           You can also create new lists by (Live WebApp Link/your-New-List-Name)
 
 
-This Project is hosted on heroku and mongoDB
+*Tools used :
+
+-Fronend : html, css, bootstrap
+
+-backend : Node.js, express and ejs
+
+-Database: mongoDB, Monodb-Atlas (For databse server support)
 
 
-You can add new lists by "/newListName" on URL and this will create new list with all the new components 
+Live WebApp Link : https://sleepy-ocean-03520.herokuapp.com/
